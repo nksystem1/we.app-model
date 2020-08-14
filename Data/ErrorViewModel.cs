@@ -1,6 +1,6 @@
 using System;
 
-namespace we.app_model.Data.model
+namespace we.app_model.Data
 {
     public class ErrorViewModel
     {

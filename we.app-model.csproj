@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B6C2FEF4-F349-4F65-BBC1-18837AB09180}</ProjectGuid>
+    <ProjectGuid>{61F49CB4-5F78-4FBC-A6AF-F0933FA859B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>we.app_model</RootNamespace>
@@ -42,18 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Data.model\Almacenes.cs" />
-    <Compile Include="Data.model\borrar.cs" />
-    <Compile Include="Data.model\Cliente.cs" />
-    <Compile Include="Data.model\Comision.cs" />
-    <Compile Include="Data.model\ErrorViewModel.cs" />
-    <Compile Include="Data.model\Grupocliente.cs" />
-    <Compile Include="Data.model\Negocio.cs" />
-    <Compile Include="Data.model\Ruta.cs" />
-    <Compile Include="Data.model\Usuario.cs" />
-    <Compile Include="Data.model\Vendedor.cs" />
-    <Compile Include="Data.model\Zona.cs" />
+    <Compile Include="Data\Almacenes.cs" />
+    <Compile Include="Data\borrar.cs" />
+    <Compile Include="Data\Cliente.cs" />
+    <Compile Include="Data\Comision.cs" />
+    <Compile Include="Data\ErrorViewModel.cs" />
+    <Compile Include="Data\Grupocliente.cs" />
+    <Compile Include="Data\Negocio.cs" />
+    <Compile Include="Data\Ruta.cs" />
+    <Compile Include="Data\Usuario.cs" />
+    <Compile Include="Data\Vendedor.cs" />
+    <Compile Include="Data\Zona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

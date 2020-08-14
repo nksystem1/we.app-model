@@ -5,7 +5,7 @@ using System.Runtime.Serialization;
 using System.Web;
 
 
-namespace we.app_model.Data.model
+namespace we.app_model.Data
 {
     public class Cliente
     {

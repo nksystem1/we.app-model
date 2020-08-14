@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace we.app_model.Data.model
+namespace we.app_model.Data
 {
 	[Serializable]
     public class Vendedor

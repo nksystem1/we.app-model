@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace we.app_model.Data.model
+namespace we.app_model.Data
 {
     class borrar
     {
