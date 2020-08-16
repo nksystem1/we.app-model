@@ -4,3 +4,8 @@ C:\Nk-System Consultores SCA\Proyectos\Spring-Boot\we.app-model\obj\Debug\we.app
 C:\Nk-System Consultores SCA\Proyectos\Spring-Boot\we.app-model\obj\Debug\we.app-model.dll
 C:\Nk-System Consultores SCA\Proyectos\Spring-Boot\we.app-model\obj\Debug\we.app-model.pdb
 C:\Nk-System Consultores SCA\Proyectos\Spring-Boot\we.app-model\obj\Debug\we.app-model.csprojAssemblyReference.cache
+C:\Nk-System Consultores SCA\Proyectos\we.app-model\bin\Debug\we.app-model.dll
+C:\Nk-System Consultores SCA\Proyectos\we.app-model\bin\Debug\we.app-model.pdb
+C:\Nk-System Consultores SCA\Proyectos\we.app-model\obj\Debug\we.app-model.csprojAssemblyReference.cache
+C:\Nk-System Consultores SCA\Proyectos\we.app-model\obj\Debug\we.app-model.dll
+C:\Nk-System Consultores SCA\Proyectos\we.app-model\obj\Debug\we.app-model.pdb

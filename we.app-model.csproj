@@ -50,6 +50,7 @@
     <Compile Include="Data\Grupocliente.cs" />
     <Compile Include="Data\Negocio.cs" />
     <Compile Include="Data\Ruta.cs" />
+    <Compile Include="Data\UnidadMedida.cs" />
     <Compile Include="Data\Usuario.cs" />
     <Compile Include="Data\Vendedor.cs" />
     <Compile Include="Data\Zona.cs" />
